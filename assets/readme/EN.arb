@@ -1,0 +1,75 @@
+{
+  "@@locale": "en",
+  "repoBanner": "![Repo Banner](https://user-images.githubusercontent.com/87353286/144381080-faf8e557-7909-43a1-a8e2-208936e5a8f8.png)",
+  "@repoBanner": {
+    "description": "Main banner image of the repository"
+  },
+  "repoTitle": "# BlackHole",
+  "@repoTitle": {
+    "description": "Main title of the project"
+  },
+  "repoSubtitle": "An Open-Source Music Player App for all your needs!",
+  "@repoSubtitle": {
+    "description": "Short project description"
+  },
+  "badgesRow": "[![made-with-flutter](https://img.shields.io/badge/Made%20with-Flutter-1f425f.svg)](https://flutter.dev/) ![Release](https://img.shields.io/github/v/release/I-Am-Saksham-Srivastavaa/BlackHole) ![Downloads](https://img.shields.io/github/downloads/I-Am-Saksham-Srivastavaa/BlackHole/total) [![Build](https://github.com/I-Am-Saksham-Srivastavaa/BlackHole/actions/workflows/flutter.yml/badge.svg)](https://github.com/I-Am-Saksham-Srivastavaa/BlackHole/actions/workflows/flutter.yml) [![Translation-Status](https://hosted.weblate.org/widgets/blackhole/-/translations/svg-badge.svg)](https://hosted.weblate.org/engage/blackhole/)",
+  "@badgesRow": {
+    "description": "Flutter, release, download, CI/CD and translation badges"
+  },
+  "starTheRepo": "### Don't forget to :star: the repo",
+  "@starTheRepo": {
+    "description": "Encouragement to star the repo"
+  },
+  "repoGitHubStats": "[![GitHub stars](https://img.shields.io/github/stars/I-Am-Saksham-Srivastavaa/BlackHole.svg?style=social&label=Star)](https://github.com/I-Am-Saksham-Srivastavaa/BlackHole) ![GitHub forks](https://img.shields.io/github/forks/I-Am-Saksham-Srivastavaa/BlackHole.svg?style=social&label=Forks) ![GitHub followers](https://img.shields.io/github/followers/I-Am-Saksham-Srivastavaa.svg?style=social&label=Follow)",
+  "@repoGitHubStats": {
+    "description": "GitHub stars, forks and followers badges"
+  },
+  "downloadSection": "## Download\n\n[<img src=\"get_website.png\" alt=\"Download from Website\" height=\"90\">](https://I-Am-Saksham-Srivastavaa.github.io/download/) [<img src=\"get_github.png\" alt=\"Download from GitHub\" height=\"90\">](https://github.com/I-Am-Saksham-Srivastavaa/BlackHole/releases) [<img src=\"get_telegram.png\" alt=\"Join Telegram Channel\" height=\"90\">](https://t.me/blackhole_official) [<img src=\"https://fdroid.gitlab.io/artwork/badge/get-it-on.png\" alt=\"Get it on F-Droid\" height=\"90\">](https://f-droid.org/packages/com.infinity.oryn/) [<img src=\"https://gitlab.com/IzzyOnDroid/repo/-/raw/master/assets/IzzyOnDroid.png\" alt=\"Get it on IzzyDroid\" height=\"90\">](https://android.izzysoft.de/repo/apk/com.infinity.oryn)",
+  "@downloadSection": {
+    "description": "Download buttons section"
+  },
+  "translationsSection": "## Translations\n\n- [Turkish :tr:](/README.TR.md)\n- [Spanish :es:](/README.ES.md)\n- [Russian :ru:](/README.RU.md)\n- [French :fr:](/README.FR.md)\n- [Portuguese :brazil:](/README.PT.md)\n- [Japanese :jp:](/README.JA.md)\n- [Belarusian :belarus:](/README.BE.md)\n- [Indonesian :indonesia:](/README.ID.md)\n\n[Translate App on Weblate](https://hosted.weblate.org/projects/blackhole/translations/)",
+  "@translationsSection": {
+    "description": "List of README translations"
+  },
+  "featuresSection": "## Features\n\n- High Streaming Quality (320kbps AAC)\n- Song, Album, Artist and Playlist Search\n- Language Specific Promoted Playlists\n- Trending Songs\n- Artist and Genre Radios\n- Support 15+ music languages\n- Local and Global Top Spotify songs\n- Add Songs to Favorite\n- Playlists support\n- Import Playlists from Spotify & YouTube\n- Import/Export Playlists as JSON File\n- Share Playlists\n- Sleep timer\n- Lyrics Support\n- Queue Management\n- Listening history record\n- Dark mode / accent color\n- Custom Gradients and other Theme options\n- Supports Portrait as well as Landscape mode\n- Download for offline play (320kbps with ID3 tags)\n- Play Online as well as Offline Songs\n- Tag Editing Support\n- Trending Search Results\n- YouTube Search Support\n- Promoted Youtube Playlists\n- Play videos as audio\n- Auto Song Recommendations\n- Inbuilt Equalizer\n- Backup & Restore\n- Auto Update Check\n- Cache support\n- No Subscription\n- No Ads\n\nand much more...\nCheck it yourself :)",
+  "@featuresSection": {
+    "description": "List of app features"
+  },
+  "screenshotsSection": "<img src=\"https://github.com/I-Am-Saksham-Srivastavaa/BlackHole/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/1.png?raw=true\" width=\"32%\"> <img src=\"https://github.com/I-Am-Saksham-Srivastavaa/BlackHole/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/2.png?raw=true\" width=\"32%\"> <img src=\"https://github.com/I-Am-Saksham-Srivastavaa/BlackHole/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/3.png?raw=true\" width=\"32%\"> <img src=\"https://github.com/I-Am-Saksham-Srivastavaa/BlackHole/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/4.png?raw=true\" width=\"32%\"> <img src=\"https://github.com/I-Am-Saksham-Srivastavaa/BlackHole/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/5.png?raw=true\" width=\"32%\"> <img src=\"https://github.com/I-Am-Saksham-Srivastavaa/BlackHole/blob/main/fastlane/metadata/android/en-US/images/phoneScreenshots/6.png?raw=true\" width=\"32%\">",
+  "@screenshotsSection": {
+    "description": "App screenshots gallery"
+  },
+  "licenseSection": "## License\n\n```text\nCopyright © 2021 Ankit Sangwan\n\nBlackHole is a free software licensed under GPL v3.0\nIt is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY;\nwithout even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.\n```\n\n```text\nBeing Open Source doesn't mean you can just make a copy of the app and upload it on playstore or sell\na closed source copy of the same.\nRead the following carefully:\n1. Any copy of a software under GPL must be under same license. So you can't upload the app on a closed source\n  app repository like PlayStore/AppStore without distributing the source code.\n2. You can't sell any copied/modified version of the app under any \"non-free\" license.\n   You must provide the copy with the original software or with instructions on how to obtain original software,\n   should clearly state all changes, should clearly disclose full source code, should include same license\n   and all copyrights should be retained.\n\nIn simple words, You can ONLY use the source code of this app for `Open Source` Project under `GPL v3.0` or later\nwith all your source code CLEARLY DISCLOSED on any code hosting platform like GitHub, with clear INSTRUCTIONS on\nhow to obtain the original software, should clearly STATE ALL CHANGES made and should RETAIN all copyrights.\nUse of this software under any \"non-free\" license is NOT permitted.\n```\n\nSee the [GNU General Public License](https://github.com/I-Am-Saksham-Srivastavaa/BlackHole/blob/main/LICENSE) for more details.",
+  "@licenseSection": {
+    "description": "Full license section with disclaimers"
+  },
+  "buildFromSource": "## Building from Source\n\n1. If you don't have Flutter SDK installed, please visit official [Flutter](https://flutter.dev/) site.\n2. Fetch latest source code from master branch.\n\n```bash\ngit clone https://github.com/I-Am-Saksham-Srivastavaa/BlackHole.git\n```\n\n3. Run the app with Android Studio or VS Code. Or the command line:\n\n```bash\nflutter pub get\nflutter run\n```",
+  "@buildFromSource": {
+    "description": "Instructions to build from source"
+  },
+  "contributeSection": "## Contribute\n\nContributions are welcome. Please read our [contributing guidelines](https://github.com/I-Am-Saksham-Srivastavaa/BlackHole/blob/main/CONTRIBUTING.md) before contributing.",
+  "@contributeSection": {
+    "description": "How to contribute"
+  },
+  "commonIssuesSection": "## Facing any Issue?\n\nHave a look at some [common Issues](https://github.com/I-Am-Saksham-Srivastavaa/BlackHole/wiki/Common-Issues) that you might face. If your problem is not there, feel free to open an Issue :)",
+  "@commonIssuesSection": {
+    "description": "Link to common issues"
+  },
+  "betaSection": "## Want to test Beta Versions? Need help??\n\nYou can join our [Telegram Channel](https://t.me/blackhole_official) or [Telegram Group](https://t.me/joinchat/fHDC1AWnOhw0ZmI9), if you have any query, or need help with something as well as to get beta updates of the project.",
+  "@betaSection": {
+    "description": "Info about beta testing & help"
+  },
+  "coffeeSection": "## Liked my work?\n\n<a href=\"https://www.buymeacoffee.com/ankitsangwan\" target=\"_blank\"><img src=\"https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png\" alt=\"Buy Me A Coffee\"></a>",
+  "@coffeeSection": {
+    "description": "Buy me a coffee link"
+  },
+  "whatsNewSection": "## What's New\n\nTo read full changelog visit the [wiki page](https://github.com/I-Am-Saksham-Srivastavaa/BlackHole/wiki/Changelog)",
+  "@whatsNewSection": {
+    "description": "Link to changelog / what's new"
+  },
+  "disclaimerSection": "## Disclaimer\n\n```text\nBlackHole does not own or have any affiliation with the songs and other content available through the app.\nAll songs and other content are the property of their respective owners and are protected by copyright law.\nBlackHole is not responsible for any infringement of copyright or other intellectual property rights that may result\nfrom the use of the songs and other content available through the app. BlackHole uses third-party plugins and\nis not responsible for any harm or damage to the respective owners or any other parties resulting from the use\nof the songs and other content through the third-party plugins.\nBy using the app, you agree to use the songs and other content only for personal, non-commercial purposes\nand in compliance with all applicable laws and regulations.\n```",
+  "@disclaimerSection": {
+    "description": "App disclaimer"
+  }
+}

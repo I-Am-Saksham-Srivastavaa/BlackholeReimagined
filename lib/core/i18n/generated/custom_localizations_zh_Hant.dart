@@ -1,0 +1,1149 @@
+import 'package:oryn/core/i18n/custom_localizations_fallback.dart';
+
+// ignore_for_file: type=lint
+
+/// The translations for Chinese (Traditional) (`zh_Hant`).
+class CustomLocalizationZhHant extends CustomLocalizations {
+  CustomLocalizationZhHant([String locale = 'zh_Hant']) : super(locale);
+
+  @override
+  String get about => '關於';
+
+  @override
+  String get aboutLine1 => '這個軟體是開放原始碼專案，你可以在這裡找到原始碼';
+
+  @override
+  String get aboutLine2 => '如果你喜歡這個APP,  請給我的repo按個⭐';
+
+  @override
+  String get addNew => '新增';
+
+  @override
+  String get addSomething => '添加新內容';
+
+  @override
+  String get addToPlaylist => '添加至播放清單';
+
+  @override
+  String get addToQueue => '加入佇列';
+
+  @override
+  String get addedBy => '添加方式';
+
+  @override
+  String get addedTo => '已添加至';
+
+  @override
+  String get addedToFav => '已添加至我的最愛';
+
+  @override
+  String get addedToPlaylists => '已添加至播放清單';
+
+  @override
+  String get addedToQueue => '已添加至佇列';
+
+  @override
+  String get artist => '藝人';
+
+  @override
+  String get adjustSpeed => '調整速度';
+
+  @override
+  String get album => '專輯';
+
+  @override
+  String get albumArtist => '專輯藝人';
+
+  @override
+  String get albums => '專輯';
+
+  @override
+  String get alphabetical => '按字母排序';
+
+  @override
+  String get alreadyExists => '已存在';
+
+  @override
+  String get alreadyInQueue => '已在佇列中';
+
+  @override
+  String get artists => '藝人';
+
+  @override
+  String get autoBack => '自動備份';
+
+  @override
+  String get autoBackSub => '自動備份資料';
+
+  @override
+  String get autoplay => '自動播放';
+
+  @override
+  String get autoBackLocation => '自動備份位置';
+
+  @override
+  String get autoplaySub => '自動接續播放類似歌曲';
+
+  @override
+  String get blacklistHomeSections => '';
+
+  @override
+  String get blacklistHomeSectionsConfirm =>
+      '您確定要將此部分列入黑名單嗎？ 一旦列入黑名單，將不會顯示在主屏幕上';
+
+  @override
+  String get cacheSong => '快取歌曲';
+
+  @override
+  String get cacheSongSub => '歌曲將被緩存以供將來播放。 將佔用您設備上的額外空間';
+
+  @override
+  String get cancel => '取消';
+
+  @override
+  String get cantAddToQueue => '無法將線上歌曲添加至本地播放佇列';
+
+  @override
+  String get cantFind => '找不到喔！ ';
+
+  @override
+  String get canvasColor => '背景顏色';
+
+  @override
+  String get canvasColorSub => '應用程式主背景顏色';
+
+  @override
+  String get cardColor => '卡牌顏色';
+
+  @override
+  String get cardColorSub => '搜尋框、提示框和卡片顏色';
+
+  @override
+  String get aboard => '正在播放';
+
+  @override
+  String get accent => '強調顏色與色調';
+
+  @override
+  String get bottomGradSub => '在底欄使用漸層';
+
+  @override
+  String get buyCoffee => 'Buy me a coffee ☕';
+
+  @override
+  String get back => '返回';
+
+  @override
+  String get cache => '快取';
+
+  @override
+  String get backupSuccess => '成功備份';
+
+  @override
+  String get bgGrad => '背景漸層';
+
+  @override
+  String get blacklistedHomeSections => '已列入黑名單的主畫面區域';
+
+  @override
+  String get bottomGrad => '底欄漸層';
+
+  @override
+  String get backNRest => '備份&恢復';
+
+  @override
+  String get bgGradSub => '永遠使用漸層背景';
+
+  @override
+  String get blacklistedHomeSectionsSub => '包含這些標題的部分不會顯示在主頁';
+
+  @override
+  String get cardGrad => '卡片漸層';
+
+  @override
+  String get streamWifiQuality => '';
+
+  @override
+  String get streamWifiQualitySub => '';
+
+  @override
+  String get successTagEdit => '';
+
+  @override
+  String get trendingSearch => '';
+
+  @override
+  String get undo => '';
+
+  @override
+  String get ui => '';
+
+  @override
+  String get unknown => '';
+
+  @override
+  String get unlike => '';
+
+  @override
+  String get update => '';
+
+  @override
+  String get updateAvailable => '';
+
+  @override
+  String get viewAll => '';
+
+  @override
+  String get watchVideo => '';
+
+  @override
+  String get willPlayNext => '';
+
+  @override
+  String get viral => '';
+
+  @override
+  String get year => '';
+
+  @override
+  String get yesReplace => '';
+
+  @override
+  String get yourPlaylists => '';
+
+  @override
+  String get importJioSaavn => '';
+
+  @override
+  String get likedWork => '';
+
+  @override
+  String get no => '';
+
+  @override
+  String get settings => '';
+
+  @override
+  String get share => '';
+
+  @override
+  String get showQr => '';
+
+  @override
+  String get supportEq => '';
+
+  @override
+  String get useHome => '';
+
+  @override
+  String get cardGradSub => '卡片中使用的漸層';
+
+  @override
+  String get checkUpdate => '';
+
+  @override
+  String get clear => '';
+
+  @override
+  String get clearAll => '';
+
+  @override
+  String get clearCache => '';
+
+  @override
+  String get compactNotificationButtons => '';
+
+  @override
+  String get createAlbumFold => '為專輯和播放列表下載創建文件夾';
+
+  @override
+  String get checkUpdateSub => '';
+
+  @override
+  String get clearCacheSub => '';
+
+  @override
+  String get disclaimer => '';
+
+  @override
+  String get downLocation => '';
+
+  @override
+  String get downLyrics => '';
+
+  @override
+  String get downLyricsSub => '';
+
+  @override
+  String get donateGpaySub => '';
+
+  @override
+  String get genre => '';
+
+  @override
+  String get from => '';
+
+  @override
+  String get getStarted => '';
+
+  @override
+  String get importPlaylist => '';
+
+  @override
+  String get fetchingStream => '';
+
+  @override
+  String get finish => '';
+
+  @override
+  String get importPublicPlaylist => '';
+
+  @override
+  String get importSpotify => '';
+
+  @override
+  String get inc => '';
+
+  @override
+  String get importSuccess => '';
+
+  @override
+  String get importYt => '';
+
+  @override
+  String get ipAdd => '';
+
+  @override
+  String get joinTg => '';
+
+  @override
+  String get insta => '';
+
+  @override
+  String get included => '';
+
+  @override
+  String get langSub => '';
+
+  @override
+  String get lastAdded => '';
+
+  @override
+  String get joinTgSub => '';
+
+  @override
+  String get latest => '';
+
+  @override
+  String get loadLastSub => '';
+
+  @override
+  String get local => '';
+
+  @override
+  String get live => '';
+
+  @override
+  String get liveSearchSub => '';
+
+  @override
+  String get loadLast => '';
+
+  @override
+  String get lyrics => '';
+
+  @override
+  String get madeBy => '';
+
+  @override
+  String get minAudioLen => '';
+
+  @override
+  String get miniButtons => '';
+
+  @override
+  String get minutes => '';
+
+  @override
+  String get minAudioLenSub => '';
+
+  @override
+  String get openInSpotify => '';
+
+  @override
+  String get moreInfo => '';
+
+  @override
+  String get musicLang => '';
+
+  @override
+  String get musicLangSub => '';
+
+  @override
+  String get musicPlayback => '';
+
+  @override
+  String get others => '';
+
+  @override
+  String get pause => '';
+
+  @override
+  String get play => '';
+
+  @override
+  String get playerScreenBackground => '';
+
+  @override
+  String get playerScreenBackgroundSub => '';
+
+  @override
+  String get playRadio => '';
+
+  @override
+  String get playlists => '';
+
+  @override
+  String get rename => '';
+
+  @override
+  String get selectJsonImport => '';
+
+  @override
+  String get sleepDurSub => '';
+
+  @override
+  String get sleepTimer => '';
+
+  @override
+  String get sleepTimerSetFor => '';
+
+  @override
+  String get song => '';
+
+  @override
+  String get songInfo => '';
+
+  @override
+  String get useBlurForNowPlayingSub => '';
+
+  @override
+  String get useProxy => '';
+
+  @override
+  String get yes => '';
+
+  @override
+  String get downFilenameSub => '';
+
+  @override
+  String get downFilename => '';
+
+  @override
+  String get enterText => '';
+
+  @override
+  String get favorites => '';
+
+  @override
+  String get langQue => '';
+
+  @override
+  String get useDenseMini => '';
+
+  @override
+  String get lastModified => '';
+
+  @override
+  String get playlistShareText => '';
+
+  @override
+  String get useDenseMiniSub => '';
+
+  @override
+  String get resetOnSkip => '';
+
+  @override
+  String get useDownSub => '';
+
+  @override
+  String get equalizer => '';
+
+  @override
+  String get changeDefault => '預設值';
+
+  @override
+  String get compactNotificationButtonsHeader => '';
+
+  @override
+  String get countryQue => '您想查看哪個國家/地區的 Spotify 本地排行榜？';
+
+  @override
+  String get copied => '';
+
+  @override
+  String get createAlbumFoldSub => '下載專輯或播放列表時為歌曲創建通用文件夾';
+
+  @override
+  String get createBackSub => '創建數據備份';
+
+  @override
+  String get createYtFold => '為 YouTube 下載創建不同的文件夾';
+
+  @override
+  String get createYtFoldSub => '為從 YouTube 下載的歌曲創建一個不同的文件夾';
+
+  @override
+  String get currentTheme => '當前主題';
+
+  @override
+  String get createPlaylist => '創建播放列表';
+
+  @override
+  String get deleteThemeSubtitle => '';
+
+  @override
+  String get disclaimerText => '';
+
+  @override
+  String get getLyricsOnlineSub => '';
+
+  @override
+  String get lang => '';
+
+  @override
+  String get includeExcludeFolderSub => '';
+
+  @override
+  String get includedDetails => '';
+
+  @override
+  String get lastSession => '';
+
+  @override
+  String get library => '';
+
+  @override
+  String get enableGestureSub => '';
+
+  @override
+  String get downingAlbum => '';
+
+  @override
+  String get duration => '';
+
+  @override
+  String get edit => '';
+
+  @override
+  String get enterName => '';
+
+  @override
+  String get enforceRepeat => '';
+
+  @override
+  String get enforceRepeatSub => '';
+
+  @override
+  String get enterThemeName => '';
+
+  @override
+  String get enterPlaylistLink => '';
+
+  @override
+  String get enterSongsCount => '';
+
+  @override
+  String get favSongs => '';
+
+  @override
+  String get myMusic => '';
+
+  @override
+  String get noFolderSelected => '';
+
+  @override
+  String get selectDur => '';
+
+  @override
+  String get searchVideo => '';
+
+  @override
+  String get selectExportLocation => '';
+
+  @override
+  String get shareApp => '';
+
+  @override
+  String get shareAppSub => '';
+
+  @override
+  String get showHere => '';
+
+  @override
+  String get skip => '';
+
+  @override
+  String get skipPrevious => '';
+
+  @override
+  String get sleepAfter => '';
+
+  @override
+  String get sleepAfterSub => '';
+
+  @override
+  String get songs => '';
+
+  @override
+  String get sorry => '';
+
+  @override
+  String get tg => '';
+
+  @override
+  String get tgCh => '';
+
+  @override
+  String get tgGp => '';
+
+  @override
+  String get themeDeleted => '';
+
+  @override
+  String get themeSaved => '';
+
+  @override
+  String get useDown => '';
+
+  @override
+  String get useProxySub => '';
+
+  @override
+  String get version => '';
+
+  @override
+  String get useVpn => '';
+
+  @override
+  String get theme => '';
+
+  @override
+  String get title => '';
+
+  @override
+  String get ytDownQuality => '';
+
+  @override
+  String get youTube => '';
+
+  @override
+  String get appTitle => 'BlackHole';
+
+  @override
+  String get chartLocation => 'Spotify 本地排行榜位置';
+
+  @override
+  String get chartLocationSub => '';
+
+  @override
+  String get checkingUpdate => '';
+
+  @override
+  String get changeOrder => '長按以更改順序 ';
+
+  @override
+  String get connectingRadio => '';
+
+  @override
+  String get createBack => '建立備份';
+
+  @override
+  String get createNewPlaylist => '創建新的播放列表';
+
+  @override
+  String get date => '';
+
+  @override
+  String get downQualitySub => '';
+
+  @override
+  String get downed => '';
+
+  @override
+  String get popularity => '';
+
+  @override
+  String get failedImport => '';
+
+  @override
+  String get streamQualitySub => '';
+
+  @override
+  String get upiCopied => '';
+
+  @override
+  String get compactNotificationButtonsSub => '';
+
+  @override
+  String get contactUs => '';
+
+  @override
+  String get confirmViewable => '';
+
+  @override
+  String get copy => '複製';
+
+  @override
+  String get excluded => '';
+
+  @override
+  String get downQuality => '';
+
+  @override
+  String get downloadSomething => '';
+
+  @override
+  String get downs => '';
+
+  @override
+  String get contactUsSub => '';
+
+  @override
+  String get convertingSongs => '';
+
+  @override
+  String get darkMode => '';
+
+  @override
+  String get dec => '';
+
+  @override
+  String get dateAdded => '';
+
+  @override
+  String get delete => '';
+
+  @override
+  String get deleted => '';
+
+  @override
+  String get deleteTheme => '';
+
+  @override
+  String get down => '';
+
+  @override
+  String get downAgain => '';
+
+  @override
+  String get downDone => '';
+
+  @override
+  String get displayName => '';
+
+  @override
+  String get donateGpay => '';
+
+  @override
+  String get enableGesture => '';
+
+  @override
+  String get exitConfirm => '';
+
+  @override
+  String get excludedDetails => '';
+
+  @override
+  String get export => '';
+
+  @override
+  String get exported => '';
+
+  @override
+  String get failedCreateBackup => '';
+
+  @override
+  String get getLyricsOnline => '';
+
+  @override
+  String get failedDelete => '';
+
+  @override
+  String get failedExport => '';
+
+  @override
+  String get failedTagEdit => '';
+
+  @override
+  String get genres => '';
+
+  @override
+  String get global => '';
+
+  @override
+  String get gmail => '';
+
+  @override
+  String get importResso => '';
+
+  @override
+  String get includeExcludeFolder => '';
+
+  @override
+  String get like => '';
+
+  @override
+  String get liveSearch => '';
+
+  @override
+  String get nothingPlaying => '';
+
+  @override
+  String get nothingTo => '';
+
+  @override
+  String get nowPlaying => '';
+
+  @override
+  String get shareLogs => '';
+
+  @override
+  String get shareLogsSub => '';
+
+  @override
+  String get selectBackLocation => '';
+
+  @override
+  String get selectDownLocation => '';
+
+  @override
+  String get signInSpotify => '';
+
+  @override
+  String get size => '';
+
+  @override
+  String get songPath => '';
+
+  @override
+  String get useSystemTheme => '';
+
+  @override
+  String get ytStreamQualitySub => '';
+
+  @override
+  String get ytDownQualitySub => '';
+
+  @override
+  String get ytStreamQuality => '';
+
+  @override
+  String get ytLiveAlert => '';
+
+  @override
+  String get guest => '';
+
+  @override
+  String get home => '';
+
+  @override
+  String get homeGreet => '';
+
+  @override
+  String get importFile => '';
+
+  @override
+  String get mergePlaylists => '';
+
+  @override
+  String get minAudioAlert => '';
+
+  @override
+  String get folders => '';
+
+  @override
+  String get miniButtonsSub => '';
+
+  @override
+  String get mostPlayedSong => '';
+
+  @override
+  String get noLangSelected => '';
+
+  @override
+  String get notAvailable => '';
+
+  @override
+  String get port => '';
+
+  @override
+  String get playingCap => '';
+
+  @override
+  String get prefReq => '';
+
+  @override
+  String get proxySet => '';
+
+  @override
+  String get proxySetSub => '';
+
+  @override
+  String get radio => '';
+
+  @override
+  String get rememberChoice => '';
+
+  @override
+  String get restore => '';
+
+  @override
+  String get restoreSub => '';
+
+  @override
+  String get savePlaylist => '';
+
+  @override
+  String get removedFrom => '';
+
+  @override
+  String get removedFromFav => '';
+
+  @override
+  String get reset => '';
+
+  @override
+  String get resetOnSkipSub => '';
+
+  @override
+  String get resultsNotFound => '';
+
+  @override
+  String get shareAppText => '';
+
+  @override
+  String get top => '';
+
+  @override
+  String get upNext => '';
+
+  @override
+  String get streamQuality => '';
+
+  @override
+  String get supportEqSub => '';
+
+  @override
+  String get useAmoled => '';
+
+  @override
+  String get stopOnCloseSub => '';
+
+  @override
+  String get versionSub => '';
+
+  @override
+  String get viewArtist => '';
+
+  @override
+  String get welcome => '';
+
+  @override
+  String get viewAlbum => '';
+
+  @override
+  String get noFileSelected => '';
+
+  @override
+  String get nothingIs => '';
+
+  @override
+  String get ok => '';
+
+  @override
+  String get or => '';
+
+  @override
+  String get playNext => '';
+
+  @override
+  String get playSomething => '';
+
+  @override
+  String get playing => '';
+
+  @override
+  String get remove => '';
+
+  @override
+  String get removed => '';
+
+  @override
+  String get saveTheme => '';
+
+  @override
+  String get search => '';
+
+  @override
+  String get searchText => '';
+
+  @override
+  String get searchYt => '';
+
+  @override
+  String get selectBackFile => '';
+
+  @override
+  String get showHistory => '';
+
+  @override
+  String get showHistorySub => '';
+
+  @override
+  String get showLast => '';
+
+  @override
+  String get showLastSub => '';
+
+  @override
+  String get showPlaylists => '';
+
+  @override
+  String get showTopCharts => '';
+
+  @override
+  String get showTopChartsSub => '';
+
+  @override
+  String get shuffle => '';
+
+  @override
+  String get skipNext => '';
+
+  @override
+  String get sleepDur => '';
+
+  @override
+  String get songsPlayed => '';
+
+  @override
+  String get sponsor => '';
+
+  @override
+  String get spotifyCharts => '';
+
+  @override
+  String get spotifyPublic => '';
+
+  @override
+  String get spotifyTopCharts => '';
+
+  @override
+  String get stats => '';
+
+  @override
+  String get stopDown => '';
+
+  @override
+  String get stopOnClose => '';
+
+  @override
+  String get searchHome => '';
+
+  @override
+  String get topCharts => '';
+
+  @override
+  String get minFourRequired => '';
+
+  @override
+  String get useDominant => '';
+
+  @override
+  String get useDominantSub => '';
+
+  @override
+  String get useDominantAndDarkerColors => '';
+
+  @override
+  String get useDominantAndDarkerColorsSub => '';
+
+  @override
+  String get useDominantFullScreen => '';
+
+  @override
+  String get useDominantFullScreenSub => '';
+
+  @override
+  String get navTabsSub => '';
+
+  @override
+  String get navTabs => '';
+
+  @override
+  String get useLessDataImage => '';
+
+  @override
+  String get useLessDataImageSub => '';
+
+  @override
+  String get restart => '';
+
+  @override
+  String get restartRequired => '';
+
+  @override
+  String get useBlurForNowPlaying => '';
+
+  @override
+  String get devMode => '';
+
+  @override
+  String get discover => '';
+
+  @override
+  String get volumeGestureEnabled => '';
+
+  @override
+  String get volumeGestureEnabledSub => '';
+
+  @override
+  String get excludeFolders => '';
+
+  @override
+  String get justListen => '';
+
+  @override
+  String get remadeBy => '';
+
+  @override
+  String get retry => '';
+
+  @override
+  String get retrying => '';
+
+  @override
+  String get save => '';
+
+  @override
+  String get saveChanges => '';
+
+  @override
+  String get saved => '';
+
+  @override
+  String get source => '';
+
+  @override
+  String get spotify => '';
+
+  @override
+  String get spotifyChartsLocation => '';
+
+  @override
+  String get spotifyChartsLocationSub => '';
+
+  @override
+  String get youTubeMusic => '';
+}
